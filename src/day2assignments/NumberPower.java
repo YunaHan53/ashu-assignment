@@ -31,5 +31,4 @@ public class NumberPower {
         System.out.println(num + "^" + power + " = " + result);
         input.close();
 	}
-
 }
