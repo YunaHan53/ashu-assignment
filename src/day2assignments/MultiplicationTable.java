@@ -2,6 +2,10 @@ package day2assignments;
 
 import java.util.Scanner;
 
+/*
+ * 1.  Generate Multiplication Table using for loop
+ */
+
 public class MultiplicationTable {
 
 	public static void main(String[] args) {
