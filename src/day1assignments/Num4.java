@@ -2,6 +2,10 @@ package day1assignments;
 
 import java.util.Scanner;
 
+/*
+ * 4.  Swap two numbers without using temporary variable
+ */
+
 public class Num4 {
 
 	public static void main(String[] args) {
