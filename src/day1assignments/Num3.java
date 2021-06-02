@@ -3,7 +3,7 @@ package day1assignments;
 import java.util.Scanner;
 
 /*
- * 4.  Swap two numbers using temporary variable
+ * 3.  Swap two numbers using temporary variable
  */
 
 public class Num3 {
