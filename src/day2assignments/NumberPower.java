@@ -29,6 +29,7 @@ public class NumberPower {
         
         //Displaying the output
         System.out.println(num + "^" + power + " = " + result);
+        input.close();
 	}
 
 }
